@@ -12,11 +12,15 @@ A simple and interactive **To-Do List** application built with **HTML**, **CSS**
 - 💄 Styled using CSS for a visually appealing design.
 
 ## Demo
+1.Enter Name Prompt
+![Screenshot (189)](https://github.com/user-attachments/assets/8b47a096-abc7-4a73-a615-c90ed8cdc6b6)
+2.Greeting and Task Update Screen
+![Screenshot (190)](https://github.com/user-attachments/assets/977ba357-114f-4c27-8d53-cde92860d085)
+3.Task Management Features
+![Screenshot (192)](https://github.com/user-attachments/assets/7ee8f7ac-c910-4874-aa3c-423350f50c99)
 
-![To-Do List App Preview](https://via.placeholder.com/800x400?text=To-Do+List+App+Screenshot)
 
-
-# Tree
+## Project Structure
 
 ```
 .
