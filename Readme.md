@@ -22,5 +22,8 @@ A simple and interactive **To-Do List** application built with **HTML**, **CSS**
    git clone https://github.com/your-username/todo-list-app.git
 
 ## Project Structure
-├── index.html # Main HTML file ├── style.css # CSS file for styling ├── script.js # JavaScript file for functionality └── README.md # Project documentation
+├── index.html # Main HTML file
+├── style.css # CSS file for styling
+├── script.js # JavaScript file for functionality 
+└── README.md # Project documentation
 
