@@ -15,11 +15,6 @@ A simple and interactive **To-Do List** application built with **HTML**, **CSS**
 
 ![To-Do List App Preview](https://via.placeholder.com/800x400?text=To-Do+List+App+Screenshot)
 
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/todo-list-app.git
 
 # Tree
 
@@ -32,4 +27,22 @@ A simple and interactive **To-Do List** application built with **HTML**, **CSS**
 
 
 ```
+
+
+## How to Use
+
+1. Clone the repository.
+2. Open `index.html` in your browser to view the app.
+3. Customize the styles in `style.css` or functionality in `script.js` if needed.
+
+## Features
+
+- Dynamic greeting message.
+- Add, update, and delete tasks.
+- Responsive design.
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
 
